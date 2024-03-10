@@ -10,7 +10,7 @@
     "test": "jest"
   },
   "dependencies": {
-    "@react-navigation/native": "react-navigation/native",
+    "@react-navigation/native": "^6.1.15",
     "@react-navigation/native-stack": "^6.9.23",
     "@react-navigation/stack": "^6.3.26",
     "@reduxjs/toolkit": "^2.2.1",
